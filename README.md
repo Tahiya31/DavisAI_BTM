@@ -48,7 +48,7 @@ Contains the datasets used to train (SEN12MS) and test (Drone_Images) the GAN
 #### SEN12MS <a name="sen12ms"></a>
 A folder that contains the RGB-NIR paired images in two versions: 1) the raw, separated images, and 2) the combined images where the 2 separate images are combined side-by-side into a single image. The SEN12MS dataset is an open source dataset of over 180,000 RGB-NIR paired images.
 #### Drone_Images <a name="drone_images"></a>
-A folder that contains over 5000 aerial drone images of trees that either both infested with BTMs or healthy.
+A folder that contains over 5000 aerial drone images of trees that either both infested with BTMs or healthy. The images were collected on December 22, 2022.
 
 
 ## Pix2Pix <a name="pix2pix"></a>
